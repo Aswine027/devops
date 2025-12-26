@@ -1,1 +1,1 @@
-console.log("Arulsuriya loves coding!");
+console.log("Arulsuriya coding!");
