@@ -1,1 +1,1 @@
-console.log("Arulsuriya coding!");
+console.log("Arulsuriya Path: 1/1.js");
